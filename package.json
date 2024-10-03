@@ -1,0 +1,16 @@
+{
+  "name": "101382608_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "This is my lab test 1 in our Full Stack course.",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "callback",
+    "promises"
+  ],
+  "author": "Jam Furaque",
+  "license": "ISC"
+}
